@@ -1,5 +1,5 @@
 <h1 align="center">
-📖: Influencia de fatores na Performance de Alunos
+📖: Previsão de preços de casas na Califórnia
 </h1>
 
 <p align="center">
@@ -25,15 +25,16 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto foi desenvolvido com base no curso de  *__Ciencia de Dados e Analytics__* da [PUC-RIO](https://www.puc-rio.br/index.html). O notebook desse projeto tem por objetivo realizar uma Análise exploratória de dados de um dataset com fatores que poderiam influenciar
-no resultado de exames de alunos.
+Este projeto foi desenvolvido com base no curso de  *__Ciencia de Dados e Analytics__* da [PUC-RIO](https://www.puc-rio.br/index.html). O notebook desse projeto tem por objetivo realizar uma modelagem de Machine Learning com base em
+dados de um dataset com fatores que podem influenciar o preço de imóveis e que possa prever o preço dos imóveis com
+certa precisão.
 
-O dataset utilizado foi https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/code
+O dataset utilizado está localizado em https://www.kaggle.com/datasets/shibumohapatra/house-price/data
   
  
 ## 👉 Execução
 
-1. Acesse o repositório do Github: https://github.com/fasantosgh/MVP_AnaliseDados
+1. Acesse o repositório do Github: https://github.com/fasantosgh/MVP_MachineLearning
 2. Abra o arquivo MVP_AnaliseDados_versãofinal no Colab: https://colab.research.google.com/drive/
 3. Execute as células na ordem
 
